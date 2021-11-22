@@ -1,0 +1,16 @@
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\bin\Debug\net5.0\mis221-bonus-lab-cwray2.exe
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\bin\Debug\net5.0\mis221-bonus-lab-cwray2.deps.json
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\bin\Debug\net5.0\mis221-bonus-lab-cwray2.runtimeconfig.json
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\bin\Debug\net5.0\mis221-bonus-lab-cwray2.runtimeconfig.dev.json
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\bin\Debug\net5.0\mis221-bonus-lab-cwray2.dll
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\bin\Debug\net5.0\ref\mis221-bonus-lab-cwray2.dll
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\bin\Debug\net5.0\mis221-bonus-lab-cwray2.pdb
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\obj\Debug\net5.0\mis221-bonus-lab-cwray2.csproj.AssemblyReference.cache
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\obj\Debug\net5.0\mis221-bonus-lab-cwray2.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\obj\Debug\net5.0\mis221-bonus-lab-cwray2.AssemblyInfoInputs.cache
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\obj\Debug\net5.0\mis221-bonus-lab-cwray2.AssemblyInfo.cs
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\obj\Debug\net5.0\mis221-bonus-lab-cwray2.csproj.CoreCompileInputs.cache
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\obj\Debug\net5.0\mis221-bonus-lab-cwray2.dll
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\obj\Debug\net5.0\ref\mis221-bonus-lab-cwray2.dll
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\obj\Debug\net5.0\mis221-bonus-lab-cwray2.pdb
+C:\source\MIS-221\projects\mis221-bonus-lab-cwray2\obj\Debug\net5.0\mis221-bonus-lab-cwray2.genruntimeconfig.cache
